@@ -1,12 +1,15 @@
+# EXP 5: 
+COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
 
+## Aim: 
+To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
 
-# EXP 5: COMPARATIVE ANALYSIS OF DIFFERENT TYPES OF PROMPTING PATTERNS AND EXPLAIN WITH VARIOUS TEST SCENARIOS
+## **AI Tools Required**
 
-# Aim: To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
+* **ChatGPT (GPT-5 model)** or equivalent large language model.
+* Text editor/word processor for documentation.
 
-### AI Tools Required: 
-
-# Explanation: 
+## Explanation: 
 Define the Two Prompt Types:
 
 Write a basic Prompt: Clear, detailed, and structured prompts that give specific instructions or context to guide the model.
@@ -33,6 +36,22 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
+### **Types of Prompts**
+
+1. **Naïve Prompt (Broad/Unstructured):**
+
+   * Short, vague, or general instruction with little to no context.
+   * Example: *“Tell me about AI.”*
+
+2. **Basic Prompt (Clear/Structured/Refined):**
+
+   * Detailed and specific instruction with clear context and scope.
+   * Example: *“Explain Artificial Intelligence in simple terms, focusing on its applications in daily life such as healthcare, education, and business.”*
+
+
 # OUTPUT
 
-# RESULT: The prompt for the above said problem executed successfully
+[Prompt exp 5 Balaji_merged_compressed.pdf](https://github.com/user-attachments/files/23601623/Prompt.exp.5.Balaji_merged_compressed.pdf)
+
+# RESULT: 
+The prompt for the above said problem executed successfully
